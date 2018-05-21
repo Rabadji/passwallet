@@ -41,11 +41,19 @@ body
      text-align: center;
   color:#224F62;
 margin-top: 0%;
-margin-bottom: 10%;
+margin-bottom: 0%;
 margin-left: 5%;
 margin-right: 5%;
 }
+.text2{
+    font-size:3vw;
+     text-align: left;
+  color:#224F62;
+margin-top: 5%;
+margin-bottom: 0%;
 
+margin-right: 5%;
+}
 div.listelem{
      margin-left: 10%;
      margin-bottom: 10%;

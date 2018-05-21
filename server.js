@@ -9,7 +9,7 @@ var db;
 var path    = require("path");
 var purchase="page1";
 
-//dscsddsfdsfsdf
+
 
 app.get('/terms',function(req,res){
   res.sendFile(path.join(__dirname+'/passwallet/Terms.html'));
